@@ -2,7 +2,7 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-### Author: Jerome Joof & Skyler Burger
+### Author: Jerome Joof
 
 ### Links and Resources
 * [repo]()
